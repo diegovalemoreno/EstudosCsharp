@@ -9,6 +9,11 @@ namespace Linx.NFCE.Services.Util.Util
     public class Conversor
     {
         #region para dias
+        /// <summary>
+        /// Recebe um valor e converte para milisegundos.
+        /// </summary>
+        /// <param name="milliseconds"></param>
+        /// <returns></returns>
         public static double ConvertMillisecondsToDays(double milliseconds)
         {
             return TimeSpan.FromMilliseconds(milliseconds).TotalDays;
