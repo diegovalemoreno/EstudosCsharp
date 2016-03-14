@@ -1,0 +1,37 @@
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\bin\Debug\MySQLConnection.exe.config
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\bin\Debug\MySQLConnection.exe
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\bin\Debug\MySQLConnection.pdb
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\bin\Debug\EntityFramework.dll
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\bin\Debug\System.Data.SQLite.dll
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\bin\Debug\EntityFramework.xml
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\bin\Debug\System.Data.SQLite.xml
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\obj\Debug\MySQLConnection.csprojResolveAssemblyReference.cache
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\obj\Debug\MySQLConnection.Form1.resources
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\obj\Debug\MySQLConnection.Properties.Resources.resources
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\obj\Debug\MySQLConnection.csproj.GenerateResource.Cache
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\obj\Debug\MySQLConnection.exe
+c:\users\diego.moreno\documents\visual studio 2015\Projects\MySQLConnection\MySQLConnection\obj\Debug\MySQLConnection.pdb
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\bin\Debug\MySQLConnection.exe.config
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\obj\Debug\MySQLConnection.exe
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\obj\Debug\MySQLConnection.pdb
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\bin\Debug\MySQLConnection.exe
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\bin\Debug\MySQLConnection.pdb
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\bin\Debug\EntityFramework.dll
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\bin\Debug\EntityFramework.SqlServer.dll
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\bin\Debug\System.Data.SQLite.dll
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\bin\Debug\System.Data.SQLite.EF6.dll
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\bin\Debug\System.Data.SQLite.Linq.dll
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\bin\Debug\EntityFramework.xml
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\bin\Debug\EntityFramework.SqlServer.xml
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\bin\Debug\System.Data.SQLite.xml
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\obj\Debug\MySQLConnection.csprojResolveAssemblyReference.cache
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\obj\Debug\MySQLConnection.Form1.resources
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\obj\Debug\MySQLConnection.Properties.Resources.resources
+C:\WorkSpace\Projetos Visual Studio\Projetos Visual Studio 2015\MySQLConnection\MySQLConnection\obj\Debug\MySQLConnection.csproj.GenerateResource.Cache
+C:\Users\DiegoMoreno\Source\Repos\EstudosCsharp\MySQLConnection\MySQLConnection\bin\Debug\MySQLConnection.exe.config
+C:\Users\DiegoMoreno\Source\Repos\EstudosCsharp\MySQLConnection\MySQLConnection\obj\Debug\MySQLConnection.exe
+C:\Users\DiegoMoreno\Source\Repos\EstudosCsharp\MySQLConnection\MySQLConnection\obj\Debug\MySQLConnection.pdb
